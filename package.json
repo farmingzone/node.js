@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node.js proeject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farmingzone/node.js.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "farmingzone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farmingzone/node.js/issues"
+  },
+  "homepage": "https://github.com/farmingzone/node.js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
