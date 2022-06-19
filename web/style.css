@@ -1,0 +1,45 @@
+body{
+    /* background-color:#111111; */
+
+    /* background: linear-gradient(to top, skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+
+    background-image: url(my_back_img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    /* color:#FFFFFF;
+    font-family: "Press Start 2P", "consolas", sans-serif;
+
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style:double;
+    border-left-width: 10px;
+    border-left-color: silver; */
+
+    background: linear-gradient(to left, skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    /* color:#00FF73;
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan wavy underline;
+    font-size: 18px;
+    
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px; */
+
+    background: linear-gradient(to right, skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
