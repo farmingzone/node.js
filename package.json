@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/farmingzone/node.js#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "jsdom": "^20.0.0"
+  },
+  "devDependencies": {
+    "mocha-jsdom": "^2.0.0"
   }
 }
